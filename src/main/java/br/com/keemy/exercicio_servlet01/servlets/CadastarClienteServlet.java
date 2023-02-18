@@ -1,4 +1,4 @@
-package br.com.keemy.exercicio01servlet;
+package br.com.keemy.exercicio_servlet01.servlets;
 
 import java.io.*;
 
